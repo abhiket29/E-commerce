@@ -60,3 +60,10 @@ body, html {
     /* align-items: center; */
     text-align: center;
 }
+
+.footer{
+    text-align: center;
+    font-size: 0.9em;
+    margin-top: 1em;
+    color: #ff6347;
+}
